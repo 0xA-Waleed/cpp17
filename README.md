@@ -5,5 +5,5 @@ Project #1 - Hospital System\
 Project #2 - Library System\
 Project #3 - Ask.fm: Q & A\
 Project #4 - Ask.fm: Q & A (OOP)\
-Project #5: Online Book Reader\
-Project #6: Expedia.com\
+Project #5 - Online Book Reader\
+Project #6 - Expedia.com
